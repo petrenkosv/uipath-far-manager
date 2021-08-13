@@ -4,8 +4,7 @@ Example of Legacy automation
 
 UiPath bot creates and opens a folder, than deletes it.
 
-![FarManager](https://user-images.githubusercontent.com/52131494/129394403-5bb87aa3-f63e-4bf8-942e-1bd0aed64ff2.gif)
-
+![FarManager](https://user-images.githubusercontent.com/52131494/129396925-07610396-08b2-4f96-95cf-95c72a705994.gif)
 
 
 
